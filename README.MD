@@ -1,5 +1,11 @@
 # BELAJAR MEMBUAT APLIKASI BACKEND MENGGUNAKAN NODEJS DAN EXPRESS
 
+## Author
 
-Nama : Nadia Farah Adiba
-NIM : 2200016104
+Nama : 
+
+Nadia Farah Adiba
+
+NIM : 
+
+2200016104
