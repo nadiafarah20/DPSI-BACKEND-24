@@ -3,9 +3,7 @@
 ## Author
 
 Nama : 
-
 Nadia Farah Adiba
 
 NIM : 
-
 2200016104
